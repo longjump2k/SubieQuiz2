@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Subie Quiz</string>
+
+    <!-- Header text for start of the quiz [char LIMIT = NONE]-->
+    <string name="begin_quiz">"Are You Ready to Test Your Subaru Knowledge?  Let's Begin!"</string>
+
+    <!-- Question 1 text [char LIMIT = NONE]-->
+    <string name="question_one">1.  What is the engine code for the 2015 Subaru WRX?</string>
+
+    <!-- Answer A for question one [char LIMIT = NONE]-->
+    <string name="one_a">EJ205</string>
+
+    <!-- Answer B for question one [char LIMIT = NONE]-->
+    <string name="one_b">4G63T</string>
+
+    <!-- Answer C for question one [char LIMIT = NONE]-->
+    <string name="one_c">FA20DIT</string>
+
+    <!-- Answer D for question one [char LIMIT = NONE]-->
+    <string name="one_d">2JZ-GTE</string>
+
+
+    <!-- Question 2 text [char LIMIT = NONE]-->
+    <string name="question_two">2.  What does the STi in Subaru WRX STi stand for?</string>
+
+    <!-- Answer A for question two [char LIMIT = NONE]-->
+    <string name="two_a">Street Technology injection</string>
+
+    <!-- Answer B for question two [char LIMIT = NONE]-->
+    <string name="two_b">Subaru Track incorporated</string>
+
+    <!-- Answer C for question two [char LIMIT = NONE]-->
+    <string name="two_c">Subaru Track international</string>
+
+    <!-- Answer D for question two [char LIMIT = NONE]-->
+    <string name="two_d">Subaru Technica international</string>
+
+
+    <!-- Question 3 text [char LIMIT = NONE]-->
+    <string name="question_three">3.  What drive train are Subaru Vehicles most known for?</string>
+
+    <!-- Answer A for question three [char LIMIT = NONE]-->
+    <string name="three_a">Front Wheel Drive</string>
+
+    <!-- Answer B for question three [char LIMIT = NONE]-->
+    <string name="three_b">Symmetrical All Wheel Drive</string>
+
+    <!-- Answer C for question three [char LIMIT = NONE]-->
+    <string name="three_c">Rear Wheel Drive</string>
+
+    <!-- Answer D for question three [char LIMIT = NONE]-->
+    <string name="three_d">Four Wheel Steering</string>
+
+
+    <!-- Question 4 text [char LIMIT = NONE]-->
+    <string name="question_four">4.  As of 2018, which currently produced Subaru vehicle has a drive train that is significantly different from rest?</string>
+
+    <!-- Answer A for question four [char LIMIT = NONE]-->
+    <string name="four_a">Subaru BRZ Premium</string>
+
+    <!-- Answer B for question four [char LIMIT = NONE]-->
+    <string name="four_b">Subaru Outback 2.5i Limited</string>
+
+    <!-- Answer C for question four [char LIMIT = NONE]-->
+    <string name="four_c">Subaru Forester 2.5i</string>
+
+    <!-- Answer D for question four [char LIMIT = NONE]-->
+    <string name="four_d">Subaru Impreza 2.5i</string>
+
+
+    <!-- Question 5 text [char LIMIT = NONE]-->
+    <string name="question_five">5.  Which Subaru vehicle(s) offer a turbocharged boxer engine?</string>
+
+    <!-- Answer A for question four [char LIMIT = NONE]-->
+    <string name="five_a">Subaru Outback</string>
+
+    <!-- Answer B for question four [char LIMIT = NONE]-->
+    <string name="five_b">Subaru Forester XT</string>
+
+    <!-- Answer C for question four [char LIMIT = NONE]-->
+    <string name="five_c">Subaru WRX</string>
+
+    <!-- Answer D for question four [char LIMIT = NONE]-->
+    <string name="five_d">Subaru Cross Trek</string>
+
+
+    <!-- Question 6 text [char LIMIT = NONE]-->
+    <string name="question_six">6.  As of 2018, which Subaru vehicle has features 7 passenger capacity?</string>
+
+    <!-- Question 6 hint [char LIMIT = NONE]-->
+    <string name="question_sixText">Model</string>
+
+
+    <!-- Button text to grade quiz [char LIMIT = 20]-->
+    <string name="submitAnswers">Submit</string>
+
+    <string name="toast1">You answered ></string>
+
+    <string name="toast2"> out of 6 correct!"></string>
+
+
+</resources>
